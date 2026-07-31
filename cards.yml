@@ -1,0 +1,21 @@
+server:
+  port: 6970
+
+spring:
+  application:
+    name: cards
+
+api:
+  prefix: /api
+
+build:
+  version: "6.6"
+
+cards:
+  message: "Welcome to Cards app from section 6"
+  contactDetails:
+    name: "Cards Maintainer"
+    email: "cardsMaintainer@gmail.com"
+  onCallSupport:
+    - 123456
+    - 789546

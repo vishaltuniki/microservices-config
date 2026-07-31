@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to PROD env Cards app from section 6"
+  contactDetails:
+    name: "Cards Product Owner"
+    email: "cardsPO@gmail.com"
+  onCallSupport:
+    - 99999
+    - 88888

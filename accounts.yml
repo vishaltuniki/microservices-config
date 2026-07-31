@@ -1,0 +1,19 @@
+server:
+  port: 6969
+
+#Spring properties
+spring:
+  application:
+    name: accounts
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to banking app from section 6"
+  contactDetails:
+    name: "Vishal Tuniki"
+    email: "vid23gmail.com"
+  onCallSupport:
+    - 1234567890
+    - 9876543210

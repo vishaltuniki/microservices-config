@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to accounts app from section 6 - QA api only"
+  contactDetails:
+    name: "Vihas - QA lead"
+    email: "vihas@gmail.com"
+  onCallSupport:
+    - 68564816
+    - 254984248

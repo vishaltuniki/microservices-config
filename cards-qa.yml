@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to QA env Cards app from section 6"
+  contactDetails:
+    name: "Cards Maintainer - QA"
+    email: "cardsMaintainerQAenv@gmail.com"
+  onCallSupport:
+    - 22222
+    - 33333

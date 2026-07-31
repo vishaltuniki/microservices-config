@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to PROD env loans app from section 6"
+  contactDetails:
+    name: "Loans Product Owner"
+    email: "loansPO@gmail.com"
+  onCallSupport:
+    - 55555
+    - 66666

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to accounts app from section 6 prod APIs"
+  contactDetails:
+    name: "TRK - Product owner"
+    email: "trk@gmail.com"
+  onCallSupport:
+    - 465561
+    - 48649861

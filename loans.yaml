@@ -1,0 +1,20 @@
+server:
+  port: 6971
+api:
+  prefix: /api
+
+spring:
+  application:
+    name: loans
+
+loans:
+  message: "Welcome to loans app from section 6"
+  contactDetails:
+    name: "Loans Developer - DEV D"
+    email: "loansDEVMaintainer@gmail.com"
+  onCallSupport:
+    - 11111
+    - 22222
+
+build:
+  version: "4.0"

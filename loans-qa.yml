@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to QA env loans app from section 6"
+  contactDetails:
+    name: "Loans Maintainer - QA"
+    email: "loansMaintainerQAenv@gmail.com"
+  onCallSupport:
+    - 33333
+    - 44444
