@@ -13,7 +13,7 @@ accounts:
   message: "Welcome to banking app from section 6"
   contactDetails:
     name: "Vishal Tuniki"
-    email: "vid23gmail.com"
+    email: "{cipher}09a838aaf8265ed87c0a720146e88ce991b264b506bd16f73bbc4a76de73dfb8"
   onCallSupport:
     - 1234567890
     - 9876543210
