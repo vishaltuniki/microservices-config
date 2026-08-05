@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to PRODUCTION env loans app from section 6"
+  message: "Welcome to Accounts app from section 6 PRODUCTION APIs"
   contactDetails:
     name: "Loans Product Owner"
     email: "loansPO@gmail.com"
