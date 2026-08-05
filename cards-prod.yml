@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to PRODUCTION env Cards app from section 6"
+  message: "Welcome to Cards app from section 6 PRODUCTION APIs"
   contactDetails:
     name: "Cards Product Owner"
     email: "cardsPO@gmail.com"
