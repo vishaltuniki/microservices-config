@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to Loans app from section 6 PRODUCTION APIs"
+  message: "Welcome to Loans app from section 6 Webhook APIs"
   contactDetails:
     name: "Loans Product Owner"
     email: "loansPO@gmail.com"
